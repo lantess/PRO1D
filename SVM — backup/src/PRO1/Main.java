@@ -42,14 +42,6 @@ public class Main {
                 correct++;
         }
         System.out.println("Poprawność: "+((int)correct)+"/"+ testData.size()+" - "+(correct/ testData.size()*100)+"%");
-
-        /*Bayes bayes = new Bayes(trainingData);
-        double correct = 0;
-        for(float[] d : testData){
-            if(d[13]==bayes.test(d))
-                correct++;
-        }
-        System.out.println("Poprawność: "+((int)correct)+"/"+ testData.size()+" - "+(correct/ testData.size()*100)+"%");*/
         //analyzeData();
     }
 

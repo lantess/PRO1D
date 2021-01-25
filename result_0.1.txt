@@ -1,0 +1,371 @@
+Age | Sex | Chest pain type | Resting blood presure | Serum cholestoral | Fasting blood sugar | Resting EKG result | Max heart rate | Exercise induced angina | ST depression induced by test | Slope od the peak exercise ST segment | Number of major vesels | Thal | Result | 
+63.0 years | male | typical angina | 145.0mm Hg | 233.0mg/dl | >120mg/dl | left verticular hypertrophy | 150.0 | no | no | downsloping | 0.0 | fixed defect | very low | 
+67.0 years | male | asymptomatic | 160.0mm Hg | 286.0mg/dl | <120mg/dl | left verticular hypertrophy | 108.0 | yes | no | flat | 3.0 | normal | moderate | 
+67.0 years | male | asymptomatic | 120.0mm Hg | 229.0mg/dl | <120mg/dl | left verticular hypertrophy | 129.0 | yes | no | flat | 2.0 | reversable defect | low | 
+37.0 years | male | non-anginal pain | 130.0mm Hg | 250.0mg/dl | <120mg/dl | normal | 187.0 | no | no | downsloping | 0.0 | normal | very low | 
+41.0 years | female | atypical angina | 130.0mm Hg | 204.0mg/dl | <120mg/dl | left verticular hypertrophy | 172.0 | no | no | upsloping | 0.0 | normal | very low | 
+56.0 years | male | atypical angina | 120.0mm Hg | 236.0mg/dl | <120mg/dl | normal | 178.0 | no | no | upsloping | 0.0 | normal | very low | 
+62.0 years | female | asymptomatic | 140.0mm Hg | 268.0mg/dl | <120mg/dl | left verticular hypertrophy | 160.0 | no | no | downsloping | 2.0 | normal | high | 
+57.0 years | female | asymptomatic | 120.0mm Hg | 354.0mg/dl | <120mg/dl | normal | 163.0 | yes | no | upsloping | 0.0 | normal | very low | 
+63.0 years | male | asymptomatic | 130.0mm Hg | 254.0mg/dl | <120mg/dl | left verticular hypertrophy | 147.0 | no | no | flat | 1.0 | reversable defect | moderate | 
+53.0 years | male | asymptomatic | 140.0mm Hg | 203.0mg/dl | >120mg/dl | left verticular hypertrophy | 155.0 | yes | no | downsloping | 0.0 | reversable defect | low | 
+57.0 years | male | asymptomatic | 140.0mm Hg | 192.0mg/dl | <120mg/dl | normal | 148.0 | no | no | flat | 0.0 | fixed defect | very low | 
+56.0 years | female | atypical angina | 140.0mm Hg | 294.0mg/dl | <120mg/dl | left verticular hypertrophy | 153.0 | no | no | flat | 0.0 | normal | very low | 
+56.0 years | male | non-anginal pain | 130.0mm Hg | 256.0mg/dl | >120mg/dl | left verticular hypertrophy | 142.0 | yes | no | flat | 1.0 | fixed defect | moderate | 
+44.0 years | male | atypical angina | 120.0mm Hg | 263.0mg/dl | <120mg/dl | normal | 173.0 | no | no | upsloping | 0.0 | reversable defect | very low | 
+52.0 years | male | non-anginal pain | 172.0mm Hg | 199.0mg/dl | >120mg/dl | normal | 162.0 | no | no | upsloping | 0.0 | reversable defect | very low | 
+57.0 years | male | non-anginal pain | 150.0mm Hg | 168.0mg/dl | <120mg/dl | normal | 174.0 | no | no | upsloping | 0.0 | normal | very low | 
+48.0 years | male | atypical angina | 110.0mm Hg | 229.0mg/dl | <120mg/dl | normal | 168.0 | no | yes | downsloping | 0.0 | reversable defect | low | 
+54.0 years | male | asymptomatic | 140.0mm Hg | 239.0mg/dl | <120mg/dl | normal | 160.0 | no | no | upsloping | 0.0 | normal | very low | 
+48.0 years | female | non-anginal pain | 130.0mm Hg | 275.0mg/dl | <120mg/dl | normal | 139.0 | no | no | upsloping | 0.0 | normal | very low | 
+49.0 years | male | atypical angina | 130.0mm Hg | 266.0mg/dl | <120mg/dl | normal | 171.0 | no | no | upsloping | 0.0 | normal | very low | 
+64.0 years | male | typical angina | 110.0mm Hg | 211.0mg/dl | <120mg/dl | left verticular hypertrophy | 144.0 | yes | no | flat | 0.0 | normal | very low | 
+58.0 years | female | typical angina | 150.0mm Hg | 283.0mg/dl | >120mg/dl | left verticular hypertrophy | 162.0 | no | yes | upsloping | 0.0 | normal | very low | 
+58.0 years | male | atypical angina | 120.0mm Hg | 284.0mg/dl | <120mg/dl | left verticular hypertrophy | 160.0 | no | no | flat | 0.0 | normal | low | 
+58.0 years | male | non-anginal pain | 132.0mm Hg | 224.0mg/dl | <120mg/dl | left verticular hypertrophy | 173.0 | no | no | upsloping | 2.0 | reversable defect | high | 
+60.0 years | male | asymptomatic | 130.0mm Hg | 206.0mg/dl | <120mg/dl | left verticular hypertrophy | 132.0 | yes | no | flat | 2.0 | reversable defect | very high | 
+50.0 years | female | non-anginal pain | 120.0mm Hg | 219.0mg/dl | <120mg/dl | normal | 158.0 | no | no | flat | 0.0 | normal | very low | 
+58.0 years | female | non-anginal pain | 120.0mm Hg | 340.0mg/dl | <120mg/dl | normal | 172.0 | no | no | upsloping | 0.0 | normal | very low | 
+66.0 years | female | typical angina | 150.0mm Hg | 226.0mg/dl | <120mg/dl | normal | 114.0 | no | no | downsloping | 0.0 | normal | very low | 
+43.0 years | male | asymptomatic | 150.0mm Hg | 247.0mg/dl | <120mg/dl | normal | 171.0 | no | no | upsloping | 0.0 | normal | very low | 
+40.0 years | male | asymptomatic | 110.0mm Hg | 167.0mg/dl | <120mg/dl | left verticular hypertrophy | 114.0 | yes | no | flat | 0.0 | reversable defect | high | 
+69.0 years | female | typical angina | 140.0mm Hg | 239.0mg/dl | <120mg/dl | normal | 151.0 | no | no | upsloping | 2.0 | normal | very low | 
+60.0 years | male | asymptomatic | 117.0mm Hg | 230.0mg/dl | >120mg/dl | normal | 160.0 | yes | no | upsloping | 2.0 | reversable defect | moderate | 
+64.0 years | male | non-anginal pain | 140.0mm Hg | 335.0mg/dl | <120mg/dl | normal | 158.0 | no | no | upsloping | 0.0 | normal | low | 
+59.0 years | male | asymptomatic | 135.0mm Hg | 234.0mg/dl | <120mg/dl | normal | 161.0 | no | no | flat | 0.0 | reversable defect | very low | 
+44.0 years | male | non-anginal pain | 130.0mm Hg | 233.0mg/dl | <120mg/dl | normal | 179.0 | yes | no | upsloping | 0.0 | normal | very low | 
+42.0 years | male | asymptomatic | 140.0mm Hg | 226.0mg/dl | <120mg/dl | normal | 178.0 | no | no | upsloping | 0.0 | normal | very low | 
+43.0 years | male | asymptomatic | 120.0mm Hg | 177.0mg/dl | <120mg/dl | left verticular hypertrophy | 120.0 | yes | no | flat | 0.0 | reversable defect | high | 
+57.0 years | male | asymptomatic | 150.0mm Hg | 276.0mg/dl | <120mg/dl | left verticular hypertrophy | 112.0 | yes | no | flat | 1.0 | fixed defect | low | 
+55.0 years | male | asymptomatic | 132.0mm Hg | 353.0mg/dl | <120mg/dl | normal | 132.0 | yes | no | flat | 1.0 | reversable defect | high | 
+61.0 years | male | non-anginal pain | 150.0mm Hg | 243.0mg/dl | >120mg/dl | normal | 137.0 | yes | yes | flat | 0.0 | normal | very low | 
+65.0 years | female | asymptomatic | 150.0mm Hg | 225.0mg/dl | <120mg/dl | left verticular hypertrophy | 114.0 | no | yes | flat | 3.0 | reversable defect | very high | 
+40.0 years | male | typical angina | 140.0mm Hg | 199.0mg/dl | <120mg/dl | normal | 178.0 | yes | no | upsloping | 0.0 | reversable defect | very low | 
+71.0 years | female | atypical angina | 160.0mm Hg | 302.0mg/dl | <120mg/dl | normal | 162.0 | no | no | upsloping | 2.0 | normal | very low | 
+59.0 years | male | non-anginal pain | 150.0mm Hg | 212.0mg/dl | >120mg/dl | normal | 157.0 | no | no | upsloping | 0.0 | normal | very low | 
+61.0 years | female | asymptomatic | 130.0mm Hg | 330.0mg/dl | <120mg/dl | left verticular hypertrophy | 169.0 | no | no | upsloping | 0.0 | normal | low | 
+58.0 years | male | non-anginal pain | 112.0mm Hg | 230.0mg/dl | <120mg/dl | left verticular hypertrophy | 165.0 | no | no | flat | 1.0 | reversable defect | very high | 
+51.0 years | male | non-anginal pain | 110.0mm Hg | 175.0mg/dl | <120mg/dl | normal | 123.0 | no | no | upsloping | 0.0 | normal | very low | 
+50.0 years | male | asymptomatic | 150.0mm Hg | 243.0mg/dl | <120mg/dl | left verticular hypertrophy | 128.0 | no | no | flat | 0.0 | reversable defect | very high | 
+65.0 years | female | non-anginal pain | 140.0mm Hg | 417.0mg/dl | >120mg/dl | left verticular hypertrophy | 157.0 | no | no | upsloping | 1.0 | normal | very low | 
+53.0 years | male | non-anginal pain | 130.0mm Hg | 197.0mg/dl | >120mg/dl | left verticular hypertrophy | 152.0 | no | no | downsloping | 0.0 | normal | very low | 
+41.0 years | female | atypical angina | 105.0mm Hg | 198.0mg/dl | <120mg/dl | normal | 168.0 | no | no | upsloping | 1.0 | normal | very low | 
+65.0 years | male | asymptomatic | 120.0mm Hg | 177.0mg/dl | <120mg/dl | normal | 140.0 | no | no | upsloping | 0.0 | reversable defect | very low | 
+44.0 years | male | asymptomatic | 112.0mm Hg | 290.0mg/dl | <120mg/dl | left verticular hypertrophy | 153.0 | no | no | upsloping | 1.0 | normal | moderate | 
+44.0 years | male | atypical angina | 130.0mm Hg | 219.0mg/dl | <120mg/dl | left verticular hypertrophy | 188.0 | no | no | upsloping | 0.0 | normal | very low | 
+60.0 years | male | asymptomatic | 130.0mm Hg | 253.0mg/dl | <120mg/dl | normal | 144.0 | yes | no | upsloping | 1.0 | reversable defect | low | 
+54.0 years | male | asymptomatic | 124.0mm Hg | 266.0mg/dl | <120mg/dl | left verticular hypertrophy | 109.0 | yes | no | flat | 1.0 | reversable defect | low | 
+50.0 years | male | non-anginal pain | 140.0mm Hg | 233.0mg/dl | <120mg/dl | normal | 163.0 | no | no | flat | 1.0 | reversable defect | low | 
+41.0 years | male | asymptomatic | 110.0mm Hg | 172.0mg/dl | <120mg/dl | left verticular hypertrophy | 158.0 | no | no | upsloping | 0.0 | reversable defect | low | 
+54.0 years | male | non-anginal pain | 125.0mm Hg | 273.0mg/dl | <120mg/dl | left verticular hypertrophy | 152.0 | no | no | downsloping | 1.0 | normal | very low | 
+51.0 years | male | typical angina | 125.0mm Hg | 213.0mg/dl | <120mg/dl | left verticular hypertrophy | 125.0 | yes | no | upsloping | 1.0 | normal | very low | 
+51.0 years | female | asymptomatic | 130.0mm Hg | 305.0mg/dl | <120mg/dl | normal | 142.0 | yes | no | flat | 0.0 | reversable defect | moderate | 
+46.0 years | female | non-anginal pain | 142.0mm Hg | 177.0mg/dl | <120mg/dl | left verticular hypertrophy | 160.0 | yes | no | downsloping | 0.0 | normal | very low | 
+58.0 years | male | asymptomatic | 128.0mm Hg | 216.0mg/dl | <120mg/dl | left verticular hypertrophy | 131.0 | yes | no | flat | 3.0 | reversable defect | low | 
+54.0 years | female | non-anginal pain | 135.0mm Hg | 304.0mg/dl | >120mg/dl | normal | 170.0 | no | no | upsloping | 0.0 | normal | very low | 
+54.0 years | male | asymptomatic | 120.0mm Hg | 188.0mg/dl | <120mg/dl | normal | 113.0 | no | no | flat | 1.0 | reversable defect | moderate | 
+60.0 years | male | asymptomatic | 145.0mm Hg | 282.0mg/dl | <120mg/dl | left verticular hypertrophy | 142.0 | yes | no | flat | 2.0 | reversable defect | moderate | 
+60.0 years | male | non-anginal pain | 140.0mm Hg | 185.0mg/dl | <120mg/dl | left verticular hypertrophy | 155.0 | no | no | flat | 0.0 | normal | low | 
+54.0 years | male | non-anginal pain | 150.0mm Hg | 232.0mg/dl | <120mg/dl | left verticular hypertrophy | 165.0 | no | no | upsloping | 0.0 | reversable defect | very low | 
+59.0 years | male | asymptomatic | 170.0mm Hg | 326.0mg/dl | <120mg/dl | left verticular hypertrophy | 140.0 | yes | no | downsloping | 0.0 | reversable defect | moderate | 
+46.0 years | male | non-anginal pain | 150.0mm Hg | 231.0mg/dl | <120mg/dl | normal | 147.0 | no | no | flat | 0.0 | normal | low | 
+65.0 years | female | non-anginal pain | 155.0mm Hg | 269.0mg/dl | <120mg/dl | normal | 148.0 | no | no | upsloping | 0.0 | normal | very low | 
+67.0 years | male | asymptomatic | 125.0mm Hg | 254.0mg/dl | >120mg/dl | normal | 163.0 | no | no | flat | 2.0 | reversable defect | high | 
+62.0 years | male | asymptomatic | 120.0mm Hg | 267.0mg/dl | <120mg/dl | normal | 99.0 | yes | no | flat | 2.0 | reversable defect | low | 
+65.0 years | male | asymptomatic | 110.0mm Hg | 248.0mg/dl | <120mg/dl | left verticular hypertrophy | 158.0 | no | no | upsloping | 2.0 | fixed defect | low | 
+44.0 years | male | asymptomatic | 110.0mm Hg | 197.0mg/dl | <120mg/dl | left verticular hypertrophy | 177.0 | no | no | upsloping | 1.0 | normal | low | 
+65.0 years | female | non-anginal pain | 160.0mm Hg | 360.0mg/dl | <120mg/dl | left verticular hypertrophy | 151.0 | no | no | upsloping | 0.0 | normal | very low | 
+60.0 years | male | asymptomatic | 125.0mm Hg | 258.0mg/dl | <120mg/dl | left verticular hypertrophy | 141.0 | yes | no | flat | 1.0 | reversable defect | low | 
+51.0 years | female | non-anginal pain | 140.0mm Hg | 308.0mg/dl | <120mg/dl | left verticular hypertrophy | 142.0 | no | no | upsloping | 1.0 | normal | very low | 
+48.0 years | male | atypical angina | 130.0mm Hg | 245.0mg/dl | <120mg/dl | left verticular hypertrophy | 180.0 | no | no | flat | 0.0 | normal | very low | 
+58.0 years | male | asymptomatic | 150.0mm Hg | 270.0mg/dl | <120mg/dl | left verticular hypertrophy | 111.0 | yes | no | upsloping | 0.0 | reversable defect | high | 
+45.0 years | male | asymptomatic | 104.0mm Hg | 208.0mg/dl | <120mg/dl | left verticular hypertrophy | 148.0 | yes | no | flat | 0.0 | normal | very low | 
+53.0 years | female | asymptomatic | 130.0mm Hg | 264.0mg/dl | <120mg/dl | left verticular hypertrophy | 143.0 | no | no | flat | 0.0 | normal | very low | 
+39.0 years | male | non-anginal pain | 140.0mm Hg | 321.0mg/dl | <120mg/dl | left verticular hypertrophy | 182.0 | no | no | upsloping | 0.0 | normal | very low | 
+68.0 years | male | non-anginal pain | 180.0mm Hg | 274.0mg/dl | >120mg/dl | left verticular hypertrophy | 150.0 | yes | no | flat | 0.0 | reversable defect | high | 
+52.0 years | male | atypical angina | 120.0mm Hg | 325.0mg/dl | <120mg/dl | normal | 172.0 | no | no | upsloping | 0.0 | normal | very low | 
+44.0 years | male | non-anginal pain | 140.0mm Hg | 235.0mg/dl | <120mg/dl | left verticular hypertrophy | 180.0 | no | no | upsloping | 0.0 | normal | very low | 
+47.0 years | male | non-anginal pain | 138.0mm Hg | 257.0mg/dl | <120mg/dl | left verticular hypertrophy | 156.0 | no | no | upsloping | 0.0 | normal | very low | 
+53.0 years | female | non-anginal pain | 128.0mm Hg | 216.0mg/dl | <120mg/dl | left verticular hypertrophy | 115.0 | no | no | upsloping | 0.0 | reversable defect | very low | 
+53.0 years | female | asymptomatic | 138.0mm Hg | 234.0mg/dl | <120mg/dl | left verticular hypertrophy | 160.0 | no | no | upsloping | 0.0 | normal | very low | 
+51.0 years | female | non-anginal pain | 130.0mm Hg | 256.0mg/dl | <120mg/dl | left verticular hypertrophy | 149.0 | no | no | upsloping | 0.0 | normal | very low | 
+66.0 years | male | asymptomatic | 120.0mm Hg | 302.0mg/dl | <120mg/dl | left verticular hypertrophy | 151.0 | no | no | flat | 0.0 | normal | very low | 
+62.0 years | female | asymptomatic | 160.0mm Hg | 164.0mg/dl | <120mg/dl | left verticular hypertrophy | 145.0 | no | no | downsloping | 3.0 | reversable defect | high | 
+62.0 years | male | non-anginal pain | 130.0mm Hg | 231.0mg/dl | <120mg/dl | normal | 146.0 | no | no | flat | 3.0 | reversable defect | very low | 
+44.0 years | female | non-anginal pain | 108.0mm Hg | 141.0mg/dl | <120mg/dl | normal | 175.0 | no | no | flat | 0.0 | normal | very low | 
+63.0 years | female | non-anginal pain | 135.0mm Hg | 252.0mg/dl | <120mg/dl | left verticular hypertrophy | 172.0 | no | no | upsloping | 0.0 | normal | very low | 
+52.0 years | male | asymptomatic | 128.0mm Hg | 255.0mg/dl | <120mg/dl | normal | 161.0 | yes | no | upsloping | 1.0 | reversable defect | low | 
+59.0 years | male | asymptomatic | 110.0mm Hg | 239.0mg/dl | <120mg/dl | left verticular hypertrophy | 142.0 | yes | no | flat | 1.0 | reversable defect | moderate | 
+60.0 years | female | asymptomatic | 150.0mm Hg | 258.0mg/dl | <120mg/dl | left verticular hypertrophy | 157.0 | no | no | flat | 2.0 | reversable defect | high | 
+52.0 years | male | atypical angina | 134.0mm Hg | 201.0mg/dl | <120mg/dl | normal | 158.0 | no | no | upsloping | 1.0 | normal | very low | 
+48.0 years | male | asymptomatic | 122.0mm Hg | 222.0mg/dl | <120mg/dl | left verticular hypertrophy | 186.0 | no | no | upsloping | 0.0 | normal | very low | 
+45.0 years | male | asymptomatic | 115.0mm Hg | 260.0mg/dl | <120mg/dl | left verticular hypertrophy | 185.0 | no | no | upsloping | 0.0 | normal | very low | 
+34.0 years | male | typical angina | 118.0mm Hg | 182.0mg/dl | <120mg/dl | left verticular hypertrophy | 174.0 | no | no | upsloping | 0.0 | normal | very low | 
+57.0 years | female | asymptomatic | 128.0mm Hg | 303.0mg/dl | <120mg/dl | left verticular hypertrophy | 159.0 | no | no | upsloping | 1.0 | normal | very low | 
+71.0 years | female | non-anginal pain | 110.0mm Hg | 265.0mg/dl | >120mg/dl | left verticular hypertrophy | 130.0 | no | no | upsloping | 1.0 | normal | very low | 
+49.0 years | male | non-anginal pain | 120.0mm Hg | 188.0mg/dl | <120mg/dl | normal | 139.0 | no | no | flat | 3.0 | reversable defect | high | 
+54.0 years | male | atypical angina | 108.0mm Hg | 309.0mg/dl | <120mg/dl | normal | 156.0 | no | no | upsloping | 0.0 | reversable defect | very low | 
+59.0 years | male | asymptomatic | 140.0mm Hg | 177.0mg/dl | <120mg/dl | normal | 162.0 | yes | no | upsloping | 1.0 | reversable defect | moderate | 
+57.0 years | male | non-anginal pain | 128.0mm Hg | 229.0mg/dl | <120mg/dl | left verticular hypertrophy | 150.0 | no | no | flat | 1.0 | reversable defect | low | 
+61.0 years | male | asymptomatic | 120.0mm Hg | 260.0mg/dl | <120mg/dl | normal | 140.0 | yes | no | flat | 1.0 | reversable defect | moderate | 
+39.0 years | male | asymptomatic | 118.0mm Hg | 219.0mg/dl | <120mg/dl | normal | 140.0 | no | no | flat | 0.0 | reversable defect | high | 
+61.0 years | female | asymptomatic | 145.0mm Hg | 307.0mg/dl | <120mg/dl | left verticular hypertrophy | 146.0 | yes | yes | flat | 0.0 | reversable defect | low | 
+56.0 years | male | asymptomatic | 125.0mm Hg | 249.0mg/dl | >120mg/dl | left verticular hypertrophy | 144.0 | yes | no | flat | 1.0 | normal | low | 
+52.0 years | male | typical angina | 118.0mm Hg | 186.0mg/dl | <120mg/dl | left verticular hypertrophy | 190.0 | no | no | flat | 0.0 | fixed defect | very low | 
+43.0 years | female | asymptomatic | 132.0mm Hg | 341.0mg/dl | >120mg/dl | left verticular hypertrophy | 136.0 | yes | no | flat | 0.0 | reversable defect | moderate | 
+62.0 years | female | non-anginal pain | 130.0mm Hg | 263.0mg/dl | <120mg/dl | normal | 97.0 | no | no | flat | 1.0 | reversable defect | moderate | 
+41.0 years | male | atypical angina | 135.0mm Hg | 203.0mg/dl | <120mg/dl | normal | 132.0 | no | no | flat | 0.0 | fixed defect | very low | 
+58.0 years | male | non-anginal pain | 140.0mm Hg | 211.0mg/dl | >120mg/dl | left verticular hypertrophy | 165.0 | no | no | upsloping | 0.0 | normal | very low | 
+35.0 years | female | asymptomatic | 138.0mm Hg | 183.0mg/dl | <120mg/dl | normal | 182.0 | no | no | upsloping | 0.0 | normal | very low | 
+63.0 years | male | asymptomatic | 130.0mm Hg | 330.0mg/dl | >120mg/dl | left verticular hypertrophy | 132.0 | yes | no | upsloping | 3.0 | reversable defect | high | 
+65.0 years | male | asymptomatic | 135.0mm Hg | 254.0mg/dl | <120mg/dl | left verticular hypertrophy | 127.0 | no | no | flat | 1.0 | reversable defect | moderate | 
+48.0 years | male | asymptomatic | 130.0mm Hg | 256.0mg/dl | >120mg/dl | left verticular hypertrophy | 150.0 | yes | no | upsloping | 2.0 | reversable defect | high | 
+63.0 years | female | asymptomatic | 150.0mm Hg | 407.0mg/dl | <120mg/dl | left verticular hypertrophy | 154.0 | no | no | flat | 3.0 | reversable defect | very high | 
+51.0 years | male | non-anginal pain | 100.0mm Hg | 222.0mg/dl | <120mg/dl | normal | 143.0 | yes | no | flat | 0.0 | normal | very low | 
+55.0 years | male | asymptomatic | 140.0mm Hg | 217.0mg/dl | <120mg/dl | normal | 111.0 | yes | no | downsloping | 0.0 | reversable defect | high | 
+65.0 years | male | typical angina | 138.0mm Hg | 282.0mg/dl | >120mg/dl | left verticular hypertrophy | 174.0 | no | no | flat | 1.0 | normal | low | 
+45.0 years | female | atypical angina | 130.0mm Hg | 234.0mg/dl | <120mg/dl | left verticular hypertrophy | 175.0 | no | no | flat | 0.0 | normal | very low | 
+56.0 years | female | asymptomatic | 200.0mm Hg | 288.0mg/dl | >120mg/dl | left verticular hypertrophy | 133.0 | yes | no | downsloping | 2.0 | reversable defect | high | 
+54.0 years | male | asymptomatic | 110.0mm Hg | 239.0mg/dl | <120mg/dl | normal | 126.0 | yes | no | flat | 1.0 | reversable defect | high | 
+44.0 years | male | atypical angina | 120.0mm Hg | 220.0mg/dl | <120mg/dl | normal | 170.0 | no | no | upsloping | 0.0 | normal | very low | 
+62.0 years | female | asymptomatic | 124.0mm Hg | 209.0mg/dl | <120mg/dl | normal | 163.0 | no | no | upsloping | 0.0 | normal | very low | 
+54.0 years | male | non-anginal pain | 120.0mm Hg | 258.0mg/dl | <120mg/dl | left verticular hypertrophy | 147.0 | no | no | flat | 0.0 | reversable defect | very low | 
+51.0 years | male | non-anginal pain | 94.0mm Hg | 227.0mg/dl | <120mg/dl | normal | 154.0 | yes | no | upsloping | 1.0 | reversable defect | very low | 
+29.0 years | male | atypical angina | 130.0mm Hg | 204.0mg/dl | <120mg/dl | left verticular hypertrophy | 202.0 | no | no | upsloping | 0.0 | normal | very low | 
+51.0 years | male | asymptomatic | 140.0mm Hg | 261.0mg/dl | <120mg/dl | left verticular hypertrophy | 186.0 | yes | no | upsloping | 0.0 | normal | very low | 
+43.0 years | female | non-anginal pain | 122.0mm Hg | 213.0mg/dl | <120mg/dl | normal | 165.0 | no | no | flat | 0.0 | normal | very low | 
+55.0 years | female | atypical angina | 135.0mm Hg | 250.0mg/dl | <120mg/dl | left verticular hypertrophy | 161.0 | no | no | flat | 0.0 | normal | very low | 
+70.0 years | male | asymptomatic | 145.0mm Hg | 174.0mg/dl | <120mg/dl | normal | 125.0 | yes | no | downsloping | 0.0 | reversable defect | very high | 
+62.0 years | male | atypical angina | 120.0mm Hg | 281.0mg/dl | <120mg/dl | left verticular hypertrophy | 103.0 | no | no | flat | 1.0 | reversable defect | high | 
+35.0 years | male | asymptomatic | 120.0mm Hg | 198.0mg/dl | <120mg/dl | normal | 130.0 | yes | no | flat | 0.0 | reversable defect | low | 
+51.0 years | male | non-anginal pain | 125.0mm Hg | 245.0mg/dl | >120mg/dl | left verticular hypertrophy | 166.0 | no | no | flat | 0.0 | normal | very low | 
+59.0 years | male | atypical angina | 140.0mm Hg | 221.0mg/dl | <120mg/dl | normal | 164.0 | yes | no | upsloping | 0.0 | normal | very low | 
+59.0 years | male | typical angina | 170.0mm Hg | 288.0mg/dl | <120mg/dl | left verticular hypertrophy | 159.0 | no | no | flat | 0.0 | reversable defect | low | 
+52.0 years | male | atypical angina | 128.0mm Hg | 205.0mg/dl | >120mg/dl | normal | 184.0 | no | no | upsloping | 0.0 | normal | very low | 
+64.0 years | male | non-anginal pain | 125.0mm Hg | 309.0mg/dl | <120mg/dl | normal | 131.0 | yes | no | flat | 0.0 | reversable defect | low | 
+58.0 years | male | non-anginal pain | 105.0mm Hg | 240.0mg/dl | <120mg/dl | left verticular hypertrophy | 154.0 | yes | no | flat | 0.0 | reversable defect | very low | 
+47.0 years | male | non-anginal pain | 108.0mm Hg | 243.0mg/dl | <120mg/dl | normal | 152.0 | no | no | upsloping | 0.0 | normal | low | 
+57.0 years | male | asymptomatic | 165.0mm Hg | 289.0mg/dl | >120mg/dl | left verticular hypertrophy | 124.0 | no | yes | flat | 3.0 | reversable defect | very high | 
+41.0 years | male | non-anginal pain | 112.0mm Hg | 250.0mg/dl | <120mg/dl | normal | 179.0 | no | no | upsloping | 0.0 | normal | very low | 
+45.0 years | male | atypical angina | 128.0mm Hg | 308.0mg/dl | <120mg/dl | left verticular hypertrophy | 170.0 | no | no | upsloping | 0.0 | normal | very low | 
+60.0 years | female | non-anginal pain | 102.0mm Hg | 318.0mg/dl | <120mg/dl | normal | 160.0 | no | no | upsloping | 1.0 | normal | very low | 
+52.0 years | male | typical angina | 152.0mm Hg | 298.0mg/dl | >120mg/dl | normal | 178.0 | no | no | flat | 0.0 | reversable defect | very low | 
+42.0 years | female | asymptomatic | 102.0mm Hg | 265.0mg/dl | <120mg/dl | left verticular hypertrophy | 122.0 | no | no | flat | 0.0 | normal | very low | 
+67.0 years | female | non-anginal pain | 115.0mm Hg | 564.0mg/dl | <120mg/dl | left verticular hypertrophy | 160.0 | no | no | flat | 0.0 | reversable defect | very low | 
+55.0 years | male | asymptomatic | 160.0mm Hg | 289.0mg/dl | <120mg/dl | left verticular hypertrophy | 145.0 | yes | no | flat | 1.0 | reversable defect | very high | 
+64.0 years | male | asymptomatic | 120.0mm Hg | 246.0mg/dl | <120mg/dl | left verticular hypertrophy | 96.0 | yes | no | downsloping | 1.0 | normal | high | 
+70.0 years | male | asymptomatic | 130.0mm Hg | 322.0mg/dl | <120mg/dl | left verticular hypertrophy | 109.0 | no | no | flat | 3.0 | normal | low | 
+51.0 years | male | asymptomatic | 140.0mm Hg | 299.0mg/dl | <120mg/dl | normal | 173.0 | yes | no | upsloping | 0.0 | reversable defect | low | 
+58.0 years | male | asymptomatic | 125.0mm Hg | 300.0mg/dl | <120mg/dl | left verticular hypertrophy | 171.0 | no | no | upsloping | 2.0 | reversable defect | low | 
+60.0 years | male | asymptomatic | 140.0mm Hg | 293.0mg/dl | <120mg/dl | left verticular hypertrophy | 170.0 | no | no | flat | 2.0 | reversable defect | moderate | 
+68.0 years | male | non-anginal pain | 118.0mm Hg | 277.0mg/dl | <120mg/dl | normal | 151.0 | no | yes | upsloping | 1.0 | reversable defect | very low | 
+46.0 years | male | atypical angina | 101.0mm Hg | 197.0mg/dl | >120mg/dl | normal | 156.0 | no | no | upsloping | 0.0 | reversable defect | very low | 
+77.0 years | male | asymptomatic | 125.0mm Hg | 304.0mg/dl | <120mg/dl | left verticular hypertrophy | 162.0 | yes | no | upsloping | 3.0 | normal | very high | 
+54.0 years | female | non-anginal pain | 110.0mm Hg | 214.0mg/dl | <120mg/dl | normal | 158.0 | no | no | flat | 0.0 | normal | very low | 
+58.0 years | female | asymptomatic | 100.0mm Hg | 248.0mg/dl | <120mg/dl | left verticular hypertrophy | 122.0 | no | yes | flat | 0.0 | normal | very low | 
+48.0 years | male | non-anginal pain | 124.0mm Hg | 255.0mg/dl | >120mg/dl | normal | 175.0 | no | no | upsloping | 2.0 | normal | very low | 
+57.0 years | male | asymptomatic | 132.0mm Hg | 207.0mg/dl | <120mg/dl | normal | 168.0 | yes | no | upsloping | 0.0 | reversable defect | very low | 
+52.0 years | male | non-anginal pain | 138.0mm Hg | 223.0mg/dl | <120mg/dl | normal | 169.0 | no | no | upsloping | 0.0 | normal | very low | 
+54.0 years | female | atypical angina | 132.0mm Hg | 288.0mg/dl | >120mg/dl | left verticular hypertrophy | 159.0 | yes | no | upsloping | 1.0 | normal | very low | 
+35.0 years | male | asymptomatic | 126.0mm Hg | 282.0mg/dl | <120mg/dl | left verticular hypertrophy | 156.0 | yes | no | upsloping | 0.0 | reversable defect | low | 
+45.0 years | female | atypical angina | 112.0mm Hg | 160.0mg/dl | <120mg/dl | normal | 138.0 | no | no | flat | 0.0 | normal | very low | 
+70.0 years | male | non-anginal pain | 160.0mm Hg | 269.0mg/dl | <120mg/dl | normal | 112.0 | yes | no | flat | 1.0 | reversable defect | high | 
+53.0 years | male | asymptomatic | 142.0mm Hg | 226.0mg/dl | <120mg/dl | left verticular hypertrophy | 111.0 | yes | no | upsloping | 0.0 | reversable defect | very low | 
+59.0 years | female | asymptomatic | 174.0mm Hg | 249.0mg/dl | <120mg/dl | normal | 143.0 | yes | no | flat | 0.0 | normal | low | 
+62.0 years | female | asymptomatic | 140.0mm Hg | 394.0mg/dl | <120mg/dl | left verticular hypertrophy | 157.0 | no | no | flat | 0.0 | normal | very low | 
+64.0 years | male | asymptomatic | 145.0mm Hg | 212.0mg/dl | <120mg/dl | left verticular hypertrophy | 132.0 | no | no | flat | 2.0 | fixed defect | very high | 
+57.0 years | male | asymptomatic | 152.0mm Hg | 274.0mg/dl | <120mg/dl | normal | 88.0 | yes | no | flat | 1.0 | reversable defect | low | 
+52.0 years | male | asymptomatic | 108.0mm Hg | 233.0mg/dl | >120mg/dl | normal | 147.0 | no | no | upsloping | 3.0 | reversable defect | very low | 
+56.0 years | male | asymptomatic | 132.0mm Hg | 184.0mg/dl | <120mg/dl | left verticular hypertrophy | 105.0 | yes | no | flat | 1.0 | fixed defect | low | 
+43.0 years | male | non-anginal pain | 130.0mm Hg | 315.0mg/dl | <120mg/dl | normal | 162.0 | no | no | upsloping | 1.0 | normal | very low | 
+53.0 years | male | non-anginal pain | 130.0mm Hg | 246.0mg/dl | >120mg/dl | left verticular hypertrophy | 173.0 | no | no | upsloping | 3.0 | normal | very low | 
+48.0 years | male | asymptomatic | 124.0mm Hg | 274.0mg/dl | <120mg/dl | left verticular hypertrophy | 166.0 | no | no | flat | 0.0 | reversable defect | high | 
+56.0 years | female | asymptomatic | 134.0mm Hg | 409.0mg/dl | <120mg/dl | left verticular hypertrophy | 150.0 | yes | no | flat | 2.0 | reversable defect | moderate | 
+42.0 years | male | typical angina | 148.0mm Hg | 244.0mg/dl | <120mg/dl | left verticular hypertrophy | 178.0 | no | no | upsloping | 2.0 | normal | very low | 
+59.0 years | male | typical angina | 178.0mm Hg | 270.0mg/dl | <120mg/dl | left verticular hypertrophy | 145.0 | no | no | downsloping | 0.0 | reversable defect | very low | 
+60.0 years | female | asymptomatic | 158.0mm Hg | 305.0mg/dl | <120mg/dl | left verticular hypertrophy | 161.0 | no | no | upsloping | 0.0 | normal | low | 
+63.0 years | female | atypical angina | 140.0mm Hg | 195.0mg/dl | <120mg/dl | normal | 179.0 | no | no | upsloping | 2.0 | normal | very low | 
+42.0 years | male | non-anginal pain | 120.0mm Hg | 240.0mg/dl | >120mg/dl | normal | 194.0 | no | no | downsloping | 0.0 | reversable defect | very low | 
+66.0 years | male | atypical angina | 160.0mm Hg | 246.0mg/dl | <120mg/dl | normal | 120.0 | yes | no | flat | 3.0 | fixed defect | moderate | 
+54.0 years | male | atypical angina | 192.0mm Hg | 283.0mg/dl | <120mg/dl | left verticular hypertrophy | 195.0 | no | no | upsloping | 1.0 | reversable defect | low | 
+69.0 years | male | non-anginal pain | 140.0mm Hg | 254.0mg/dl | <120mg/dl | left verticular hypertrophy | 146.0 | no | no | flat | 3.0 | reversable defect | moderate | 
+50.0 years | male | non-anginal pain | 129.0mm Hg | 196.0mg/dl | <120mg/dl | normal | 163.0 | no | no | upsloping | 0.0 | normal | very low | 
+51.0 years | male | asymptomatic | 140.0mm Hg | 298.0mg/dl | <120mg/dl | normal | 122.0 | yes | no | flat | 3.0 | reversable defect | high | 
+43.0 years | male | asymptomatic | 132.0mm Hg | 247.0mg/dl | >120mg/dl | left verticular hypertrophy | 143.0 | yes | no | flat | 0.0 | reversable defect | low | 
+62.0 years | female | asymptomatic | 138.0mm Hg | 294.0mg/dl | >120mg/dl | normal | 106.0 | no | no | flat | 3.0 | normal | moderate | 
+68.0 years | female | non-anginal pain | 120.0mm Hg | 211.0mg/dl | <120mg/dl | left verticular hypertrophy | 115.0 | no | no | flat | 0.0 | normal | very low | 
+67.0 years | male | asymptomatic | 100.0mm Hg | 299.0mg/dl | <120mg/dl | left verticular hypertrophy | 125.0 | yes | no | flat | 2.0 | normal | high | 
+69.0 years | male | typical angina | 160.0mm Hg | 234.0mg/dl | >120mg/dl | left verticular hypertrophy | 131.0 | no | no | flat | 1.0 | normal | very low | 
+45.0 years | female | asymptomatic | 138.0mm Hg | 236.0mg/dl | <120mg/dl | left verticular hypertrophy | 152.0 | yes | no | flat | 0.0 | normal | very low | 
+50.0 years | female | atypical angina | 120.0mm Hg | 244.0mg/dl | <120mg/dl | normal | 162.0 | no | no | upsloping | 0.0 | normal | very low | 
+59.0 years | male | typical angina | 160.0mm Hg | 273.0mg/dl | <120mg/dl | left verticular hypertrophy | 125.0 | no | no | upsloping | 0.0 | normal | low | 
+50.0 years | female | asymptomatic | 110.0mm Hg | 254.0mg/dl | <120mg/dl | left verticular hypertrophy | 159.0 | no | no | upsloping | 0.0 | normal | very low | 
+64.0 years | female | asymptomatic | 180.0mm Hg | 325.0mg/dl | <120mg/dl | normal | 154.0 | yes | no | upsloping | 0.0 | normal | very low | 
+57.0 years | male | non-anginal pain | 150.0mm Hg | 126.0mg/dl | >120mg/dl | normal | 173.0 | no | no | upsloping | 1.0 | reversable defect | very low | 
+64.0 years | female | non-anginal pain | 140.0mm Hg | 313.0mg/dl | <120mg/dl | normal | 133.0 | no | no | upsloping | 0.0 | reversable defect | very low | 
+43.0 years | male | asymptomatic | 110.0mm Hg | 211.0mg/dl | <120mg/dl | normal | 161.0 | no | no | upsloping | 0.0 | reversable defect | very low | 
+45.0 years | male | asymptomatic | 142.0mm Hg | 309.0mg/dl | <120mg/dl | left verticular hypertrophy | 147.0 | yes | no | flat | 3.0 | reversable defect | high | 
+58.0 years | male | asymptomatic | 128.0mm Hg | 259.0mg/dl | <120mg/dl | left verticular hypertrophy | 130.0 | yes | no | flat | 2.0 | reversable defect | high | 
+50.0 years | male | asymptomatic | 144.0mm Hg | 200.0mg/dl | <120mg/dl | left verticular hypertrophy | 126.0 | yes | no | flat | 0.0 | reversable defect | high | 
+55.0 years | male | atypical angina | 130.0mm Hg | 262.0mg/dl | <120mg/dl | normal | 155.0 | no | no | upsloping | 0.0 | normal | very low | 
+62.0 years | female | asymptomatic | 150.0mm Hg | 244.0mg/dl | <120mg/dl | normal | 154.0 | yes | no | flat | 0.0 | normal | low | 
+37.0 years | female | non-anginal pain | 120.0mm Hg | 215.0mg/dl | <120mg/dl | normal | 170.0 | no | no | upsloping | 0.0 | normal | very low | 
+38.0 years | male | typical angina | 120.0mm Hg | 231.0mg/dl | <120mg/dl | normal | 182.0 | yes | no | flat | 0.0 | reversable defect | very high | 
+41.0 years | male | non-anginal pain | 130.0mm Hg | 214.0mg/dl | <120mg/dl | left verticular hypertrophy | 168.0 | no | no | flat | 0.0 | normal | very low | 
+66.0 years | female | asymptomatic | 178.0mm Hg | 228.0mg/dl | >120mg/dl | normal | 165.0 | yes | yes | flat | 2.0 | reversable defect | high | 
+52.0 years | male | asymptomatic | 112.0mm Hg | 230.0mg/dl | <120mg/dl | normal | 160.0 | no | no | upsloping | 1.0 | normal | low | 
+56.0 years | male | typical angina | 120.0mm Hg | 193.0mg/dl | <120mg/dl | left verticular hypertrophy | 162.0 | no | no | flat | 0.0 | reversable defect | very low | 
+46.0 years | female | atypical angina | 105.0mm Hg | 204.0mg/dl | <120mg/dl | normal | 172.0 | no | no | upsloping | 0.0 | normal | very low | 
+46.0 years | female | asymptomatic | 138.0mm Hg | 243.0mg/dl | <120mg/dl | left verticular hypertrophy | 152.0 | yes | no | flat | 0.0 | normal | very low | 
+64.0 years | female | asymptomatic | 130.0mm Hg | 303.0mg/dl | <120mg/dl | normal | 122.0 | no | no | flat | 2.0 | normal | very low | 
+59.0 years | male | asymptomatic | 138.0mm Hg | 271.0mg/dl | <120mg/dl | left verticular hypertrophy | 182.0 | no | no | upsloping | 0.0 | normal | very low | 
+41.0 years | female | non-anginal pain | 112.0mm Hg | 268.0mg/dl | <120mg/dl | left verticular hypertrophy | 172.0 | yes | no | upsloping | 0.0 | normal | very low | 
+54.0 years | female | non-anginal pain | 108.0mm Hg | 267.0mg/dl | <120mg/dl | left verticular hypertrophy | 167.0 | no | no | upsloping | 0.0 | normal | very low | 
+39.0 years | female | non-anginal pain | 94.0mm Hg | 199.0mg/dl | <120mg/dl | normal | 179.0 | no | no | upsloping | 0.0 | normal | very low | 
+53.0 years | male | asymptomatic | 123.0mm Hg | 282.0mg/dl | <120mg/dl | normal | 95.0 | yes | no | flat | 2.0 | reversable defect | high | 
+63.0 years | female | asymptomatic | 108.0mm Hg | 269.0mg/dl | <120mg/dl | normal | 169.0 | yes | no | flat | 2.0 | normal | low | 
+34.0 years | female | atypical angina | 118.0mm Hg | 210.0mg/dl | <120mg/dl | normal | 192.0 | no | no | upsloping | 0.0 | normal | very low | 
+47.0 years | male | asymptomatic | 112.0mm Hg | 204.0mg/dl | <120mg/dl | normal | 143.0 | no | no | upsloping | 0.0 | normal | very low | 
+67.0 years | female | non-anginal pain | 152.0mm Hg | 277.0mg/dl | <120mg/dl | normal | 172.0 | no | no | upsloping | 1.0 | normal | very low | 
+54.0 years | male | asymptomatic | 110.0mm Hg | 206.0mg/dl | <120mg/dl | left verticular hypertrophy | 108.0 | yes | no | flat | 1.0 | normal | high | 
+66.0 years | male | asymptomatic | 112.0mm Hg | 212.0mg/dl | <120mg/dl | left verticular hypertrophy | 132.0 | yes | no | upsloping | 1.0 | normal | moderate | 
+52.0 years | female | non-anginal pain | 136.0mm Hg | 196.0mg/dl | <120mg/dl | left verticular hypertrophy | 169.0 | no | no | flat | 0.0 | normal | very low | 
+55.0 years | female | asymptomatic | 180.0mm Hg | 327.0mg/dl | <120mg/dl | ST-T wave abnormality | 117.0 | yes | no | flat | 0.0 | normal | moderate | 
+49.0 years | male | non-anginal pain | 118.0mm Hg | 149.0mg/dl | <120mg/dl | left verticular hypertrophy | 126.0 | no | no | upsloping | 3.0 | normal | low | 
+74.0 years | female | atypical angina | 120.0mm Hg | 269.0mg/dl | <120mg/dl | left verticular hypertrophy | 121.0 | yes | no | upsloping | 1.0 | normal | very low | 
+54.0 years | female | non-anginal pain | 160.0mm Hg | 201.0mg/dl | <120mg/dl | normal | 163.0 | no | no | upsloping | 1.0 | normal | very low | 
+54.0 years | male | asymptomatic | 122.0mm Hg | 286.0mg/dl | <120mg/dl | left verticular hypertrophy | 116.0 | yes | no | flat | 2.0 | normal | high | 
+56.0 years | male | asymptomatic | 130.0mm Hg | 283.0mg/dl | >120mg/dl | left verticular hypertrophy | 103.0 | yes | no | downsloping | 0.0 | reversable defect | moderate | 
+46.0 years | male | asymptomatic | 120.0mm Hg | 249.0mg/dl | <120mg/dl | left verticular hypertrophy | 144.0 | no | no | upsloping | 0.0 | reversable defect | low | 
+49.0 years | female | atypical angina | 134.0mm Hg | 271.0mg/dl | <120mg/dl | normal | 162.0 | no | no | flat | 0.0 | normal | very low | 
+42.0 years | male | atypical angina | 120.0mm Hg | 295.0mg/dl | <120mg/dl | normal | 162.0 | no | no | upsloping | 0.0 | normal | very low | 
+41.0 years | male | atypical angina | 110.0mm Hg | 235.0mg/dl | <120mg/dl | normal | 153.0 | no | no | upsloping | 0.0 | normal | very low | 
+41.0 years | female | atypical angina | 126.0mm Hg | 306.0mg/dl | <120mg/dl | normal | 163.0 | no | no | upsloping | 0.0 | normal | very low | 
+49.0 years | female | asymptomatic | 130.0mm Hg | 269.0mg/dl | <120mg/dl | normal | 163.0 | no | no | upsloping | 0.0 | normal | very low | 
+61.0 years | male | typical angina | 134.0mm Hg | 234.0mg/dl | <120mg/dl | normal | 145.0 | no | no | flat | 2.0 | normal | moderate | 
+60.0 years | female | non-anginal pain | 120.0mm Hg | 178.0mg/dl | >120mg/dl | normal | 96.0 | no | no | upsloping | 0.0 | normal | very low | 
+67.0 years | male | asymptomatic | 120.0mm Hg | 237.0mg/dl | <120mg/dl | normal | 71.0 | no | yes | flat | 0.0 | normal | moderate | 
+58.0 years | male | asymptomatic | 100.0mm Hg | 234.0mg/dl | <120mg/dl | normal | 156.0 | no | no | upsloping | 1.0 | reversable defect | moderate | 
+47.0 years | male | asymptomatic | 110.0mm Hg | 275.0mg/dl | <120mg/dl | left verticular hypertrophy | 118.0 | yes | yes | flat | 1.0 | normal | low | 
+52.0 years | male | asymptomatic | 125.0mm Hg | 212.0mg/dl | <120mg/dl | normal | 168.0 | no | yes | upsloping | 2.0 | reversable defect | high | 
+62.0 years | male | atypical angina | 128.0mm Hg | 208.0mg/dl | >120mg/dl | left verticular hypertrophy | 140.0 | no | no | upsloping | 0.0 | normal | very low | 
+57.0 years | male | asymptomatic | 110.0mm Hg | 201.0mg/dl | <120mg/dl | normal | 126.0 | yes | no | flat | 0.0 | fixed defect | very low | 
+58.0 years | male | asymptomatic | 146.0mm Hg | 218.0mg/dl | <120mg/dl | normal | 105.0 | no | no | flat | 1.0 | reversable defect | low | 
+64.0 years | male | asymptomatic | 128.0mm Hg | 263.0mg/dl | <120mg/dl | normal | 105.0 | yes | no | flat | 1.0 | reversable defect | very low | 
+51.0 years | female | non-anginal pain | 120.0mm Hg | 295.0mg/dl | <120mg/dl | left verticular hypertrophy | 157.0 | no | no | upsloping | 0.0 | normal | very low | 
+43.0 years | male | asymptomatic | 115.0mm Hg | 303.0mg/dl | <120mg/dl | normal | 181.0 | no | no | flat | 0.0 | normal | very low | 
+42.0 years | female | non-anginal pain | 120.0mm Hg | 209.0mg/dl | <120mg/dl | normal | 173.0 | no | no | flat | 0.0 | normal | very low | 
+67.0 years | female | asymptomatic | 106.0mm Hg | 223.0mg/dl | <120mg/dl | normal | 142.0 | no | no | upsloping | 2.0 | normal | very low | 
+76.0 years | female | non-anginal pain | 140.0mm Hg | 197.0mg/dl | <120mg/dl | ST-T wave abnormality | 116.0 | no | no | flat | 0.0 | normal | very low | 
+70.0 years | male | atypical angina | 156.0mm Hg | 245.0mg/dl | <120mg/dl | left verticular hypertrophy | 143.0 | no | no | upsloping | 0.0 | normal | very low | 
+57.0 years | male | atypical angina | 124.0mm Hg | 261.0mg/dl | <120mg/dl | normal | 141.0 | no | no | upsloping | 0.0 | reversable defect | low | 
+44.0 years | female | non-anginal pain | 118.0mm Hg | 242.0mg/dl | <120mg/dl | normal | 149.0 | no | no | flat | 1.0 | normal | very low | 
+58.0 years | female | atypical angina | 136.0mm Hg | 319.0mg/dl | >120mg/dl | left verticular hypertrophy | 152.0 | no | no | upsloping | 2.0 | normal | high | 
+60.0 years | female | typical angina | 150.0mm Hg | 240.0mg/dl | <120mg/dl | normal | 171.0 | no | no | upsloping | 0.0 | normal | very low | 
+44.0 years | male | non-anginal pain | 120.0mm Hg | 226.0mg/dl | <120mg/dl | normal | 169.0 | no | no | upsloping | 0.0 | normal | very low | 
+61.0 years | male | asymptomatic | 138.0mm Hg | 166.0mg/dl | <120mg/dl | left verticular hypertrophy | 125.0 | yes | no | flat | 1.0 | normal | very high | 
+42.0 years | male | asymptomatic | 136.0mm Hg | 315.0mg/dl | <120mg/dl | normal | 125.0 | yes | no | flat | 0.0 | fixed defect | moderate | 
+52.0 years | male | asymptomatic | 128.0mm Hg | 204.0mg/dl | >120mg/dl | normal | 156.0 | yes | yes | flat | 0.0 | reversable defect | moderate | 
+59.0 years | male | non-anginal pain | 126.0mm Hg | 218.0mg/dl | >120mg/dl | normal | 134.0 | no | no | flat | 1.0 | fixed defect | moderate | 
+40.0 years | male | asymptomatic | 152.0mm Hg | 223.0mg/dl | <120mg/dl | normal | 181.0 | no | no | upsloping | 0.0 | reversable defect | low | 
+42.0 years | male | non-anginal pain | 130.0mm Hg | 180.0mg/dl | <120mg/dl | normal | 150.0 | no | no | upsloping | 0.0 | normal | very low | 
+61.0 years | male | asymptomatic | 140.0mm Hg | 207.0mg/dl | <120mg/dl | left verticular hypertrophy | 138.0 | yes | no | upsloping | 1.0 | reversable defect | low | 
+66.0 years | male | asymptomatic | 160.0mm Hg | 228.0mg/dl | <120mg/dl | left verticular hypertrophy | 138.0 | no | no | upsloping | 0.0 | fixed defect | very low | 
+46.0 years | male | asymptomatic | 140.0mm Hg | 311.0mg/dl | <120mg/dl | normal | 120.0 | yes | no | flat | 2.0 | reversable defect | moderate | 
+71.0 years | female | asymptomatic | 112.0mm Hg | 149.0mg/dl | <120mg/dl | normal | 125.0 | no | no | flat | 0.0 | normal | very low | 
+59.0 years | male | typical angina | 134.0mm Hg | 204.0mg/dl | <120mg/dl | normal | 162.0 | no | no | upsloping | 2.0 | normal | low | 
+64.0 years | male | typical angina | 170.0mm Hg | 227.0mg/dl | <120mg/dl | left verticular hypertrophy | 155.0 | no | no | flat | 0.0 | reversable defect | very low | 
+66.0 years | female | non-anginal pain | 146.0mm Hg | 278.0mg/dl | <120mg/dl | left verticular hypertrophy | 152.0 | no | no | flat | 1.0 | normal | very low | 
+39.0 years | female | non-anginal pain | 138.0mm Hg | 220.0mg/dl | <120mg/dl | normal | 152.0 | no | no | flat | 0.0 | normal | very low | 
+57.0 years | male | atypical angina | 154.0mm Hg | 232.0mg/dl | <120mg/dl | left verticular hypertrophy | 164.0 | no | no | upsloping | 1.0 | normal | low | 
+58.0 years | female | asymptomatic | 130.0mm Hg | 197.0mg/dl | <120mg/dl | normal | 131.0 | no | no | flat | 0.0 | normal | very low | 
+57.0 years | male | asymptomatic | 110.0mm Hg | 335.0mg/dl | <120mg/dl | normal | 143.0 | yes | no | flat | 1.0 | reversable defect | moderate | 
+47.0 years | male | non-anginal pain | 130.0mm Hg | 253.0mg/dl | <120mg/dl | normal | 179.0 | no | no | upsloping | 0.0 | normal | very low | 
+55.0 years | female | asymptomatic | 128.0mm Hg | 205.0mg/dl | <120mg/dl | ST-T wave abnormality | 130.0 | yes | no | flat | 1.0 | reversable defect | high | 
+35.0 years | male | atypical angina | 122.0mm Hg | 192.0mg/dl | <120mg/dl | normal | 174.0 | no | no | upsloping | 0.0 | normal | very low | 
+61.0 years | male | asymptomatic | 148.0mm Hg | 203.0mg/dl | <120mg/dl | normal | 161.0 | no | no | upsloping | 1.0 | reversable defect | moderate | 
+58.0 years | male | asymptomatic | 114.0mm Hg | 318.0mg/dl | <120mg/dl | ST-T wave abnormality | 140.0 | no | no | downsloping | 3.0 | fixed defect | very high | 
+58.0 years | female | asymptomatic | 170.0mm Hg | 225.0mg/dl | >120mg/dl | left verticular hypertrophy | 146.0 | yes | no | flat | 2.0 | fixed defect | moderate | 
+58.0 years | male | atypical angina | 125.0mm Hg | 220.0mg/dl | <120mg/dl | normal | 144.0 | no | no | flat | 0.0 | reversable defect | very low | 
+56.0 years | male | atypical angina | 130.0mm Hg | 221.0mg/dl | <120mg/dl | left verticular hypertrophy | 163.0 | no | no | upsloping | 0.0 | reversable defect | very low | 
+56.0 years | male | atypical angina | 120.0mm Hg | 240.0mg/dl | <120mg/dl | normal | 169.0 | no | no | downsloping | 0.0 | normal | very low | 
+67.0 years | male | non-anginal pain | 152.0mm Hg | 212.0mg/dl | <120mg/dl | left verticular hypertrophy | 150.0 | no | no | flat | 0.0 | reversable defect | low | 
+55.0 years | female | atypical angina | 132.0mm Hg | 342.0mg/dl | <120mg/dl | normal | 166.0 | no | no | upsloping | 0.0 | normal | very low | 
+44.0 years | male | asymptomatic | 120.0mm Hg | 169.0mg/dl | <120mg/dl | normal | 144.0 | yes | no | downsloping | 0.0 | fixed defect | moderate | 
+63.0 years | male | asymptomatic | 140.0mm Hg | 187.0mg/dl | <120mg/dl | left verticular hypertrophy | 144.0 | yes | no | upsloping | 2.0 | reversable defect | moderate | 
+63.0 years | female | asymptomatic | 124.0mm Hg | 197.0mg/dl | <120mg/dl | normal | 136.0 | yes | no | flat | 0.0 | normal | low | 
+41.0 years | male | atypical angina | 120.0mm Hg | 157.0mg/dl | <120mg/dl | normal | 182.0 | no | no | upsloping | 0.0 | normal | very low | 
+59.0 years | male | asymptomatic | 164.0mm Hg | 176.0mg/dl | >120mg/dl | left verticular hypertrophy | 90.0 | no | yes | flat | 2.0 | fixed defect | high | 
+57.0 years | female | asymptomatic | 140.0mm Hg | 241.0mg/dl | <120mg/dl | normal | 123.0 | yes | no | flat | 0.0 | reversable defect | low | 
+45.0 years | male | typical angina | 110.0mm Hg | 264.0mg/dl | <120mg/dl | normal | 132.0 | no | no | flat | 0.0 | reversable defect | low | 
+68.0 years | male | asymptomatic | 144.0mm Hg | 193.0mg/dl | >120mg/dl | normal | 141.0 | no | no | flat | 2.0 | reversable defect | moderate | 
+57.0 years | male | asymptomatic | 130.0mm Hg | 131.0mg/dl | <120mg/dl | normal | 115.0 | yes | no | flat | 1.0 | reversable defect | high | 
+57.0 years | female | atypical angina | 130.0mm Hg | 236.0mg/dl | <120mg/dl | left verticular hypertrophy | 174.0 | no | no | flat | 1.0 | normal | low | 
+38.0 years | male | non-anginal pain | 138.0mm Hg | 175.0mg/dl | <120mg/dl | normal | 173.0 | no | no | upsloping | 0.0 | normal | very low | 
+=============================================================================================================
+1) Age
+21-30	1	0	0	0	0	
+31-40	0,65	0,18	0	0,12	0,06	
+41-50	0,7	0,14	0,07	0,08	0,01	
+51-60	0,49	0,21	0,13	0,13	0,04	
+61-70	0,41	0,19	0,19	0,14	0,07	
+71-80	0,83	0	0	0	0,17	
+2) Sex
+Male: 		0,45	0,22	0,14	0,14	0,05	
+Female: 	0,74	0,09	0,07	0,07	0,02	
+3) Chest pain type
+typical angina	0,7	0,22	0,04	0	0,04	
+atypical angina	0,82	0,12	0,02	0,04	0	
+non-anginal pain	0,79	0,1	0,05	0,05	0,01	
+asymptomatic	0,27	0,24	0,21	0,2	0,08	
+4) Resting blood presure
+81-100	0,67	0	0,17	0,17	0	
+101-120	0,62	0,16	0,1	0,09	0,03	
+121-140	0,55	0,19	0,13	0,11	0,02	
+141-160	0,45	0,22	0,1	0,12	0,12	
+161-180	0,31	0,15	0,23	0,23	0,08	
+181-200	0	0,5	0	0,5	0	
+5) Serum cholestoral
+101-140	0,5	0	0	0,5	0	
+141-180	0,52	0,1	0,1	0,19	0,1	
+181-220	0,64	0,15	0,09	0,09	0,03	
+221-260	0,55	0,2	0,12	0,08	0,04	
+261-300	0,43	0,25	0,11	0,17	0,03	
+301-340	0,5	0,18	0,18	0,09	0,06	
+341-380	0,6	0	0,2	0,2	0	
+381-420	0,5	0	0,25	0	0,25	
+6) Fasting blood sugar
+<120mg/dl	0,55	0,2	0,1	0,1	0,05	
+>120mg/dl	0,51	0,09	0,2	0,18	0,02	
+7) Resting EKG result
+normal	0,63	0,15	0,13	0,08	0,01	
+ST-T wave abnormality	0,25	0	0,25	0,25	0,25	
+left verticular hypertrophy	0,46	0,22	0,11	0,15	0,07	
+8) Max heart rate
+71-90	0	0,33	0,33	0,33	0	
+91-110	0,13	0,33	0,27	0,27	0	
+111-130	0,31	0,16	0,13	0,29	0,11	
+131-150	0,38	0,21	0,24	0,12	0,05	
+151-170	0,66	0,18	0,07	0,07	0,03	
+171-190	0,85	0,11	0	0,02	0,02	
+191-210	0,75	0,25	0	0	0	
+9) Exercise induced angina
+no	0,69	0,15	0,07	0,06	0,03	
+yes	0,23	0,25	0,22	0,23	0,06	
+10) ST depression induced by test
+no	0,74	0,17	0,04	0,04	0,01	
+yes	0,29	0,21	0,14	0,21	0,14	
+11) Slope od the peak exercise ST segment
+upsloping	0,75	0,15	0,05	0,04	0,01	
+flat	0,35	0,22	0,19	0,17	0,07	
+downsloping	0,43	0,1	0,14	0,24	0,1	
+12) Number of major vesels
+0	0,74	0,15	0,05	0,04	0,02	
+1	0,32	0,29	0,22	0,12	0,05	
+2	0,18	0,16	0,24	0,37	0,05	
+3	0,15	0,15	0,2	0,25	0,25	
+13) Thal
+3	0,78	0,13	0,04	0,04	0,01	
+6	0,33	0,17	0,33	0,06	0,11	
+7	0,24	0,26	0,19	0,24	0,08	
+=============================================================================================================
